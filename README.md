@@ -16,4 +16,6 @@ The program can be then ran using:
 ```
 python maze-solver/maze.py
 ```
+
+## Sample Screenshot
 <img src="./img/maze.png" width="450" height="450">
